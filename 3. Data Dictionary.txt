@@ -1,0 +1,16 @@
+Data Source:
+The data source for this business problem statement can be the transactional data available in our sales database. The dataset should include relevant columns such as:
+
+
+Data Dictionary:
+Order ID: Unique identifier for each order.
+Product: Name or ID of the product ordered.
+Quantity Ordered: Number of units of the product ordered.
+Price Each: The price of each unit of the product.
+Order Date: Date when the order was placed.
+Customer Shipping Address: Address where the order was shipped.
+City Store: The city where the store is located.
+Category: Product category or type.
+Customer Gender: Gender of the customer.
+Customer Age Range: Age range of the customer.
+Discount: The discount applied to the order (in percentage or monetary value).
